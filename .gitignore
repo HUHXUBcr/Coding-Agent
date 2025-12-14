@@ -1,0 +1,42 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 环境变量文件（包含敏感信息）
+.env
+.env.*
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# 测试缓存
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# IDE配置文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 本地开发文件
+*.local
+*.log
+
+# 项目特定文件
+.trae/
