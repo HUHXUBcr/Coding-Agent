@@ -1,0 +1,40 @@
+{
+  "samplePapers": {
+    "2401.12345": {
+      "id": "2401.12345",
+      "title": "Sample Paper: Advances in Machine Learning",
+      "authors": ["John Doe", "Jane Smith"],
+      "published": "January 1, 2024",
+      "summary": "This is a sample paper demonstrating the capabilities of the arXiv CS Daily application. It showcases recent advances in machine learning algorithms and their practical applications.",
+      "pdfLink": "https://arxiv.org/pdf/2401.12345.pdf",
+      "categories": ["cs.LG"]
+    },
+    "2401.12346": {
+      "id": "2401.12346",
+      "title": "Sample Paper: Computer Vision Applications",
+      "authors": ["Alice Johnson"],
+      "published": "January 1, 2024",
+      "summary": "Exploring recent developments in computer vision and image recognition. This paper discusses novel approaches to object detection and image classification.",
+      "pdfLink": "https://arxiv.org/pdf/2401.12346.pdf",
+      "categories": ["cs.CV"]
+    },
+    "2401.12347": {
+      "id": "2401.12347",
+      "title": "Sample Paper: Natural Language Processing Trends",
+      "authors": ["Bob Wilson", "Carol Brown"],
+      "published": "January 1, 2024",
+      "summary": "Analysis of current trends in natural language processing and text understanding. This research focuses on transformer architectures and their applications.",
+      "pdfLink": "https://arxiv.org/pdf/2401.12347.pdf",
+      "categories": ["cs.CL"]
+    }
+  },
+  "defaultSamplePaper": {
+    "id": "2401.00001",
+    "title": "Sample Paper",
+    "authors": ["Sample Author"],
+    "published": "2024",
+    "summary": "This is a sample paper demonstrating the arXiv CS Daily application functionality.",
+    "pdfLink": "https://arxiv.org/abs/2401.00001",
+    "categories": ["cs.OH"]
+  }
+}
