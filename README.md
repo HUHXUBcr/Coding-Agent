@@ -300,20 +300,10 @@ LLM客户端，负责与DashScope API通信，处理模型调用和响应解析�
 
 系统会生成详细的日志信息，您可以根据日志信息进行调试和故障排除。
 
-## 许可证
-
-MIT License
-
 ## 贡献
 
 欢迎提交问题和拉取请求，帮助改进项目。
 
-## 联系方式
-
-如有任何问题或建议，请通过以下方式联系：
-
-- 项目地址：https://github.com/your-repo/ai-codegen
-- 邮箱：your-email@example.com
 
 ---
 
